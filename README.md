@@ -1,8 +1,8 @@
 # GitHub-Commands
-GitHub Commands for easy reference
+<h2>GitHub Commands for easy reference</h2>
 
-Push:
-git init
-git add -A
-git commit -m ''
-git push -u -f origin main
+<h3>Push:</h3>
+git init <br><br>
+git add -A <br><br>
+git commit -m '' <br><br>
+git push -u -f origin main <br><br>
