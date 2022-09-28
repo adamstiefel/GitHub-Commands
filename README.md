@@ -14,9 +14,9 @@ git rm --cached .DS_Store <br><br>
 git remote add origin https://github.com/yourRepoLinkHere/example-website.git
 
 <h3>Setup Git (If you get a new computer etc) </h3>
-$ git config user.name "Mona Lisa"
-$ git config user.email "youremail@yourdomain.com"
-$ git config user.username "myusername"
+$ git config user.name "Your Name" <br><br>
+$ git config user.email "youremail@yourdomain.com" <br><br>
+$ git config user.username "yourUsername" <br><br>
 
-<p>Confirm</p>
+<p>Confirm</p><br><br>
 git config --list
