@@ -18,5 +18,5 @@ $ git config user.name "Your Name" <br><br>
 $ git config user.email "youremail@yourdomain.com" <br><br>
 $ git config user.username "yourUsername" <br><br>
 
-<p>Confirm</p><br><br>
+<p><b>Confirm</b></p>
 git config --list
